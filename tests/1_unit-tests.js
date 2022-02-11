@@ -1,5 +1,5 @@
 const chai = require('chai');
-const assert.isNull = chai.assert;
+const assert = chai.assert;
 
 suite('Unit Tests', function () {
   suite('Basic Assertions', function () {
